@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
+}
+.swiper-button-disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.container-overflow {
+  width: 100%;
+  padding-left: 15px;
+  margin-left: auto;
+}
+
+.swiper-pagination span.swiper-pagination-bullet-active {
+  opacity: 1;
+  background: white;
+}
+
+@media screen and (max-width: 500px) {
+  html {
+    scroll-padding-top: 55px;
+  }
+}
+
+@media screen and (min-width: 640px) {
+  .container-overflow {
+    max-width: calc(640px + ((100% - 640px) / 2));
+  }
+
+  @media (min-width: 768px) {
+    .container-overflow {
+      max-width: calc(768px + ((100% - 768px) / 2));
+    }
+  }
+  @media (min-width: 1024px) {
+    .container-overflow {
+      max-width: calc(1024px + ((100% - 1024px) / 2));
+    }
+  }
+  @media (min-width: 1170px) {
+    .container-overflow {
+      max-width: calc(1280px + ((100% - 1280px) / 2));
+    }
+  }
+}
