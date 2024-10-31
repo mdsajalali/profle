@@ -1,6 +1,6 @@
 # Profle Portfolio
 
-Welcome to Profile Portfolio! This portfolio features six versions: **developer, designer, lawyer, photographer, fitness, and freelance.** If you’d like, you can easily customize this theme.
+Welcome to Profile Portfolio! This portfolio features six versions: **developer, designer, lawyer, photographer, fitness, and freelance.** If you’d like, you can easily customize this theme, which includes both dark and light modes.
 
 ## Live Demo
 
@@ -8,12 +8,12 @@ You can view the live version of the portfolio here: [profle](https://profle-dev
 
 ## Portfolio Versions
 
-- **Developer:** [https://profle-dev.vercel.app/developer](https://profle-dev.vercel.app/home)
+- **Developer:** [https://profle-dev.vercel.app/home](https://profle-dev.vercel.app/home)
 - **Designer:** [https://profle-dev.vercel.app/designer](https://profle-dev.vercel.app/designer)
-- **Photographer:** [https://profle-dev.vercel.app/photographer](https://profle-dev.vercel.app/photographer)
+- **Photographer:** [https://profle-dev.vercel.app/photography](https://profle-dev.vercel.app/photography)
 - **Lawyer:** [https://profle-dev.vercel.app/lawyer](https://profle-dev.vercel.app/lawyer)
 - **Fitness:** [https://profle-dev.vercel.app/fitness](https://profle-dev.vercel.app/fitness)
-- **Freelance:** [https://profle-dev.vercel.app/freelance](https://profle-dev.vercel.app/freelance)
+- **Freelancer:** [https://profle-dev.vercel.app/freelancer](https://profle-dev.vercel.app/freelancer)
 
 ## Technologies Used
 
