@@ -1,38 +1,57 @@
 # Profle Portfolio
 
-Welcome to curl ware Profle Portfolio!
+Welcome to Profile Portfolio! This portfolio features six versions: **developer, designer, lawyer, photographer, fitness, and freelance.** If you’d like, you can easily customize this theme.
 
 ## Live Demo
 
-You can view the live version of the portfolio here: [Profle Portfolio](https://profle-portfolio-react-js.vercel.app/)
+You can view the live version of the portfolio here: [profle](https://profle-dev.vercel.app/)
+
+## Portfolio Versions
+
+- **Developer:** [https://profle-dev.vercel.app/developer](https://profle-dev.vercel.app/home)
+- **Designer:** [https://profle-dev.vercel.app/designer](https://profle-dev.vercel.app/designer)
+- **Photographer:** [https://profle-dev.vercel.app/photographer](https://profle-dev.vercel.app/photographer)
+- **Lawyer:** [https://profle-dev.vercel.app/lawyer](https://profle-dev.vercel.app/lawyer)
+- **Fitness:** [https://profle-dev.vercel.app/fitness](https://profle-dev.vercel.app/fitness)
+- **Freelance:** [https://profle-dev.vercel.app/freelance](https://profle-dev.vercel.app/freelance)
 
 ## Technologies Used
 
 - React.js
-- CSS
+- TailwindCSS
+- Framer Motion
+- Swiper.js
+- Next-Themes
+- Yet-another-react-lightbox
 - React Router Dom
 - React Icons
 - Vercel for deployment
 
 ## Installation
 
-To run this project locally, follow these steps:
+To install and set up the Profile Portfolio, follow these steps:
 
 1. Clone the repository:
 
 ```bash
- git clone https://github.com/curlware/Profle-Portfolio-react-js.git
+ git clone https://github.com/mdsajalali/profle.git
 ```
 
-2. Install dependencies:
+2. Navigate to the project directory:
 
 ```
- cd Profle-Portfolio-react-js
+ cd profle
+```
+
+3. Install dependencies:
+```
  npm install
 ```
 
-3. Run the development server:
+4. Run the development server:
 
 ```
  npm run dev
 ```
+
+#### Feel free to let me know if you need any more adjustments!
