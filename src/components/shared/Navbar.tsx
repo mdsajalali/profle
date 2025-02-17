@@ -119,7 +119,7 @@ const Navbar = () => {
             <div className="lg:flex gap-5  items-center hidden">
               <div
                 className={`flex items-center ${
-                  isScrolled ? "text-black  dark:text-white" : "text-white"
+                  isScrolled ? "text-black  dark:text-white" : "text-black dark:text-white"
                 } xl:bg-transparent gap-1 border hover:bg-white hover:text-black bg-gray-200 cursor-pointer transition-all p-2 md:p-3`}
               >
                 <LiaFileDownloadSolid size={20} />

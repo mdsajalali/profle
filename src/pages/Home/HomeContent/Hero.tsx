@@ -104,15 +104,15 @@ const Hero = () => {
           whileInView={{ opacity: 1 }}
           transition={{ duration: 0.3, delay: 0.4 }}
           viewport={{ once: true }}
-          className="w-[522px] lg:h-[620px] h-[330px] lg:my-[22px] mt-[100px] xl:my-0"
+          className="w-[522px] flex items-center justify-center lg:h-[620px] h-[330px] lg:my-[22px] mt-10 md:mt-[100px] xl:my-0"
         >
           <img
             src={profile}
             alt="Profile"
-            className="absolute lg:w-[522px] w-[291px] xl:-ml-24 xl:mt-10  lg:z-[9999] "
+            className="absolute lg:w-[522px] w-[291px]  lg:z-[9999] "
           />
-          <div className="bg-primary xl:block hidden absolute top-0 right-0  w-[680px] h-[600px]" />
-          <div className="bg-primary lg:hidden block  -mt-14 ml-10   w-[314px] h-[337px]" />
+          {/* <div className="bg-primary xl:block hidden absolute top-0 right-0  w-[680px] h-[600px]" />
+          <div className="bg-primary lg:hidden block  -mt-14 ml-10   w-[314px] h-[337px]" /> */}
         </motion.div>
       </div>
     </Container>
